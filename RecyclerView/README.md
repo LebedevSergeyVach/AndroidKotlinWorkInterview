@@ -55,4 +55,27 @@
 
 ---
 
+## Scroll Listener
+
+Для отслеживания события скролла до низа страницы мы можем следить за элементами `RecyclerView`.
+
+```kotlin
+binding.list.addOnChildAttachStateChangeListener(
+    object : RecyclerView.OnChildAttachStateChangeListener {
+        override fun onChildViewAttachedToWindow(view: View) {
+            val itemsCount = adapter.itemCount
+            val adapterPosition = binding.list.getChildAdapterPosition(view)
+
+            if (itemsCount - 5 <= adapterPosition) {
+                viewModel.accept(message = PostMessage.LoadNextPage)
+            }
+        }
+
+        override fun onChildViewDetachedFromWindow(view: View) = Unit
+    }
+)
+```
+
+---
+
 #### [README](README.md) [UP](#up)
