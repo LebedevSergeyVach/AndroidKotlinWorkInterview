@@ -21,20 +21,20 @@
 14. [**RxJava**](RxJava/README.md)
 15. [**Coroutines**](Coroutines/README.md)
 16. [**Архитектура MVI (Model-View-Intent)**](MVI/README.md)
+17. [**Paging**](Paging/README.md)
 
 ### Дописать темы (обязательны)
 
-1. [**Paging**](Paging/README.md)
-2. [**Photo**](Photo/README.md)
-3. [**DI**](DI/README.md)
-4. [**Service**](Service/README.md)
-5. [**Custom View**](CustomView/README.md)
-6. [**Многопоточность**](Multithreading/README.md)
-7. [**Тестирование**](Testing/README.md)
-8. JSON
-9. FLow, LiveData, State
-10. JVM
-11. ViewModel
+1. [**Photo**](Photo/README.md)
+2. [**DI**](DI/README.md)
+3. [**Service**](Service/README.md)
+4. [**Custom View**](CustomView/README.md)
+5. [**Многопоточность**](Multithreading/README.md)
+6. [**Тестирование**](Testing/README.md)
+7. JSON
+8. FLow, LiveData, State
+9. JVM
+10. ViewModel
 
 ---
 
