@@ -28,7 +28,7 @@
 
 ---
 
-## Дополнительные темы (желательно)
+## Дополнительные темы (желательно):
 
 1. [**JSON, Kotlinx Serialization и Data классы**](Json/README.md)
 2. [**ViewModel**](ViewModel/README.md)
