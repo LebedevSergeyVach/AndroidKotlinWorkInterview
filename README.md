@@ -19,11 +19,12 @@
 12. [**OkHttp**](OkHttp/README.md)
 13. [**Retrofit**](Retrofit/README.md)
 14. [**RxJava**](RxJava/README.md)
-15. [**Coroutines**](Coroutines/README.md)
-16. [**Архитектура MVI (Model-View-Intent)**](MVI/README.md)
-17. [**Paging**](Paging/README.md)
-18. [**Photo**](Photo/README.md)
-19. [**DI Dependency Injection - Dagger2 Hilt**](DI/README.md)
+15. [**FLow, LiveData и State**](FLowLiveData/README.md)
+16. [**Coroutines**](Coroutines/README.md)
+17. [**Архитектура MVI (Model-View-Intent)**](MVI/README.md)
+18. [**Paging**](Paging/README.md)
+19. [**Photo**](Photo/README.md)
+20. [**DI Dependency Injection - Dagger2 Hilt**](DI/README.md)
 
 ---
 
@@ -39,9 +40,8 @@
 
 1. [**Custom View**](CustomView/README.md)
 2. JSON
-3. FLow, LiveData, State
-4. JVM
-5. ViewModel
+3. JVM
+4. ViewModel
 
 ---
 
