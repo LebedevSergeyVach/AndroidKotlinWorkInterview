@@ -19,7 +19,7 @@
 12. [**OkHttp**](OkHttp/README.md)
 13. [**Retrofit**](Retrofit/README.md)
 14. [**RxJava**](RxJava/README.md)
-15. [**FLow, LiveData и State**](FLowLiveData/README.md)
+15. [**FLow, LiveData и State**](FlowLiveData/README.md)
 16. [**Coroutines**](Coroutines/README.md)
 17. [**Архитектура MVI (Model-View-Intent)**](MVI/README.md)
 18. [**Paging**](Paging/README.md)
