@@ -31,17 +31,17 @@
 ## Дополнительные темы (желательно)
 
 1. [**JSON, Kotlinx Serialization и Data классы**](Json/README.md)
-2. [**Service**](Service/README.md)
-3. [**Многопоточность**](Multithreading/README.md)
-4. [**Тестирование**](Testing/README.md)
-5. [**Custom View**](CustomView/README.md)
+2. [**ViewModel**](ViewModel/README.md)
+3. [**Service**](Service/README.md)
+4. [**Многопоточность**](Multithreading/README.md)
+5. [**Тестирование**](Testing/README.md)
+6. [**Custom View**](CustomView/README.md)
 
 ---
 
 ## Дописать темы (обязательны)
 
-1. JVM
-2. ViewModel
+1. [**JVM**](JVM/README.md)
 
 ---
 
