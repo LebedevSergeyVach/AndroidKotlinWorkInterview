@@ -30,18 +30,18 @@
 ## Дополнительные темы (желательно)
 
 1. [**Service**](Service/README.md)
+2. [**Многопоточность**](Multithreading/README.md)
+3. [**Тестирование**](Testing/README.md)
 
 ---
 
 ## Дописать темы (обязательны)
 
 1. [**Custom View**](CustomView/README.md)
-2. [**Многопоточность**](Multithreading/README.md)
-3. [**Тестирование**](Testing/README.md)
-4. JSON
-5. FLow, LiveData, State
-6. JVM
-7. ViewModel
+2. JSON
+3. FLow, LiveData, State
+4. JVM
+5. ViewModel
 
 ---
 
