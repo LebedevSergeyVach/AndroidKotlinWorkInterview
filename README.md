@@ -19,7 +19,7 @@
 12. [**OkHttp**](OkHttp/README.md)
 13. [**Retrofit**](Retrofit/README.md)
 14. [**RxJava**](RxJava/README.md)
-15. [**FLow, LiveData и State**](FlowLiveData/README.md)
+15. [**Flow, LiveData и State**](FlowLiveData/README.md)
 16. [**Coroutines**](Coroutines/README.md)
 17. [**Архитектура MVI (Model-View-Intent)**](MVI/README.md)
 18. [**Paging**](Paging/README.md)
@@ -30,18 +30,18 @@
 
 ## Дополнительные темы (желательно)
 
-1. [**Service**](Service/README.md)
-2. [**Многопоточность**](Multithreading/README.md)
-3. [**Тестирование**](Testing/README.md)
+1. [**JSON, Kotlinx Serialization и Data классы**](Json/README.md)
+2. [**Service**](Service/README.md)
+3. [**Многопоточность**](Multithreading/README.md)
+4. [**Тестирование**](Testing/README.md)
 
 ---
 
 ## Дописать темы (обязательны)
 
 1. [**Custom View**](CustomView/README.md)
-2. JSON
-3. JVM
-4. ViewModel
+2. JVM
+3. ViewModel
 
 ---
 
