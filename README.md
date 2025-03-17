@@ -1,4 +1,4 @@
-# Подготовка к собеседованию на позицию **Junior Android-разработчик** на **`Kotlin`** и **`Java`**
+# Подготовка к собеседованию на позицию **Junior Android-разработчик** на **`Kotlin`**
 <a name="up"></a>
 
 ---
@@ -23,18 +23,18 @@
 16. [**Архитектура MVI (Model-View-Intent)**](MVI/README.md)
 17. [**Paging**](Paging/README.md)
 18. [**Photo**](Photo/README.md)
+19. [**DI Dependency Injection - Dagger2 Hilt**](DI/README.md)
 
 ### Дописать темы (обязательны)
 
-1. [**DI**](DI/README.md)
-2. [**Service**](Service/README.md)
-3. [**Custom View**](CustomView/README.md)
-4. [**Многопоточность**](Multithreading/README.md)
-5. [**Тестирование**](Testing/README.md)
-6. JSON
-7. FLow, LiveData, State
-8. JVM
-9. ViewModel
+1. [**Service**](Service/README.md)
+2. [**Custom View**](CustomView/README.md)
+3. [**Многопоточность**](Multithreading/README.md)
+4. [**Тестирование**](Testing/README.md)
+5. JSON
+6. FLow, LiveData, State
+7. JVM
+8. ViewModel
 
 ---
 
