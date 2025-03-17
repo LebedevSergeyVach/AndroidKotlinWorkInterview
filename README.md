@@ -36,12 +36,7 @@
 4. [**Многопоточность**](Multithreading/README.md)
 5. [**Тестирование**](Testing/README.md)
 6. [**Custom View**](CustomView/README.md)
-
----
-
-## Дописать темы (обязательны)
-
-1. [**JVM**](JVM/README.md)
+7. [**JVM**](JVM/README.md)
 
 ---
 
