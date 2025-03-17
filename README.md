@@ -3,7 +3,7 @@
 
 ---
 
-## Темы:
+## Темы (обязательно):
 
 1. [**Преимущества языка Kotlin перед Java**](KotlinBetterJava/README.md)
 2. [**ООП Объектно-ориентированное программирование / OOP Object-oriented programming**](OOP/README.md)
@@ -25,16 +25,23 @@
 18. [**Photo**](Photo/README.md)
 19. [**DI Dependency Injection - Dagger2 Hilt**](DI/README.md)
 
-### Дописать темы (обязательны)
+---
+
+## Дополнительные темы (желательно)
 
 1. [**Service**](Service/README.md)
-2. [**Custom View**](CustomView/README.md)
-3. [**Многопоточность**](Multithreading/README.md)
-4. [**Тестирование**](Testing/README.md)
-5. JSON
-6. FLow, LiveData, State
-7. JVM
-8. ViewModel
+
+---
+
+## Дописать темы (обязательны)
+
+1. [**Custom View**](CustomView/README.md)
+2. [**Многопоточность**](Multithreading/README.md)
+3. [**Тестирование**](Testing/README.md)
+4. JSON
+5. FLow, LiveData, State
+6. JVM
+7. ViewModel
 
 ---
 
