@@ -25,6 +25,7 @@
 18. [**Paging**](Paging/README.md)
 19. [**Photo**](Photo/README.md)
 20. [**DI Dependency Injection - Dagger2 Hilt**](DI/README.md)
+21. [**SOLID**](SOLID/README.md)
 
 ---
 
@@ -37,6 +38,12 @@
 5. [**Тестирование**](Testing/README.md)
 6. [**Custom View**](CustomView/README.md)
 7. [**JVM**](JVM/README.md)
+
+## Дописать (обязательно):
+
+1. Clean Architecture
+2. sealed
+
 
 ---
 
