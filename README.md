@@ -1,4 +1,4 @@
-# Подготовка к собеседованию на позицию **Junior Android-разработчик** на **`Kotlin`**
+# Подготовка к собеседованию на позицию **Junior Android-разработчик** на **Kotlin**
 <a name="up"></a>
 
 ---
@@ -35,10 +35,11 @@
 1. [**JSON, Kotlinx Serialization и Data классы**](Json/README.md)
 2. [**ViewModel**](ViewModel/README.md)
 3. [**Service**](Service/README.md)
-4. [**Многопоточность**](Multithreading/README.md)
-5. [**Тестирование**](Testing/README.md)
-6. [**Custom View**](CustomView/README.md)
-7. [**JVM**](JVM/README.md)
+4. [**Компоненты Android**](ComponentsAndroid/README.md)
+5. [**Многопоточность**](Multithreading/README.md)
+6. [**Тестирование**](Testing/README.md)
+7. [**Custom View**](CustomView/README.md)
+8. [**JVM**](JVM/README.md)
 
 ---
 
