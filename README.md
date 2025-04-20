@@ -37,9 +37,10 @@
 3. [**Service**](Service/README.md)
 4. [**Компоненты Android**](ComponentsAndroid/README.md)
 5. [**Многопоточность**](Multithreading/README.md)
-6. [**Тестирование**](Testing/README.md)
-7. [**Custom View**](CustomView/README.md)
-8. [**JVM**](JVM/README.md)
+6. [**Garbage collector / Сборщик мусора**](GarbageCollector/README.md)
+7. [**Тестирование**](Testing/README.md)
+8. [**Custom View**](CustomView/README.md)
+9. [**JVM**](JVM/README.md)
 
 ---
 
