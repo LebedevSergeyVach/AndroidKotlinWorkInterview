@@ -1,4 +1,5 @@
 # Подготовка к собеседованию на позицию **Junior Android-разработчик** на **Kotlin**
+
 <a name="up"></a>
 
 ---
@@ -40,16 +41,17 @@
 6. [**Service**](Service/README.md)
 7. [**Многопоточность**](Multithreading/README.md)
 8. [**Garbage collector / Сборщик мусора**](GarbageCollector/README.md)
-9. [**Тестирование**](Testing/README.md)
-10. [**Custom View**](CustomView/README.md)
-11. [**Clean Architecture**](CleanArchitecture/README.md)
-12. [**JVM**](JVM/README.md)
+9. [**ViewGroup, View, Layouts**](ViewGroup/README.md)
+10. [**Тестирование**](Testing/README.md)
+11. [**Custom View**](CustomView/README.md)
+12. [**Clean Architecture**](CleanArchitecture/README.md)
+13. [**JVM**](JVM/README.md)
 
 ---
 
 ## Дописать (обязательно):
 
- - Пока нет...
+- Пока нет...
 
 ---
 
@@ -62,8 +64,10 @@
 ## Сайты и материалы:
 
 1. [**Вопросы и ответы для собеседования по Kotlin**](https://habr.com/ru/articles/721084/)
-2. [**Корутины в Kotlin: топ-50 вопросов для собеседования с Android-разработчиками в 2024 году**](https://nuancesprog.ru/p/21091/)
-3. [**Лучшие вопросы по Android и Kotlin, которые вы должны задать разработчикам на собеседовании**](https://itanddigital.ru/androiddevquestion)
+2. [**Корутины в Kotlin: топ-50 вопросов для собеседования с Android-разработчиками в 2024 году
+   **](https://nuancesprog.ru/p/21091/)
+3. [**Лучшие вопросы по Android и Kotlin, которые вы должны задать разработчикам на собеседовании
+   **](https://itanddigital.ru/androiddevquestion)
 
 ---
 
