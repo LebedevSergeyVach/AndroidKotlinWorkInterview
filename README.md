@@ -42,13 +42,14 @@
 8. [**Garbage collector / Сборщик мусора**](GarbageCollector/README.md)
 9. [**Тестирование**](Testing/README.md)
 10. [**Custom View**](CustomView/README.md)
-11. [**JVM**](JVM/README.md)
+11. [**Clean Architecture**](CleanArchitecture/README.md)
+12. [**JVM**](JVM/README.md)
 
 ---
 
 ## Дописать (обязательно):
 
-1. [**Clean Architecture**](CleanArchitecture/README.md)
+ - Пока нет...
 
 ---
 
