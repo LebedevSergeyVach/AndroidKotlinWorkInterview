@@ -32,22 +32,22 @@
 
 ## Дополнительный материал (желательно):
 
-1. [**JSON, Kotlinx Serialization и Data классы**](Json/README.md)
-2. [**ViewModel**](ViewModel/README.md)
-3. [**Service**](Service/README.md)
-4. [**Компоненты Android**](ComponentsAndroid/README.md)
-5. [**Многопоточность**](Multithreading/README.md)
-6. [**Garbage collector / Сборщик мусора**](GarbageCollector/README.md)
-7. [**Тестирование**](Testing/README.md)
-8. [**Custom View**](CustomView/README.md)
-9. [**JVM**](JVM/README.md)
+1. [**Компоненты Android**](ComponentsAndroid/README.md)
+2. [**Sealed**](Sealed/README.md)
+3. [**JSON, Kotlinx Serialization и Data классы**](Json/README.md)
+4. [**ViewModel**](ViewModel/README.md)
+5. [**Service**](Service/README.md)
+6. [**Многопоточность**](Multithreading/README.md)
+7. [**Garbage collector / Сборщик мусора**](GarbageCollector/README.md)
+8. [**Тестирование**](Testing/README.md)
+9. [**Custom View**](CustomView/README.md)
+10. [**JVM**](JVM/README.md)
 
 ---
 
 ## Дописать (обязательно):
 
 1. [**Clean Architecture**](CleanArchitecture/README.md)
-2. [**Sealed**](Sealed/README.md)
 
 ---
 
